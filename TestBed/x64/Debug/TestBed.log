@@ -1,0 +1,3 @@
+﻿  main.cpp
+x64\Debug\ThreadPool.obj : warning LNK4042: object specified more than once; extras ignored
+  TestBed.vcxproj -> C:\Projects\Local\TestBed\x64\Debug\TestBed.exe
